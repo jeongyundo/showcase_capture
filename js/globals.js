@@ -54,7 +54,7 @@ const checkbox = "input[type=checkbox]";
 
 // Cache the report containers
 const bookmarkContainer = $("#bookmark-container").get(0);
-const reportContainer = $("#report-container-capture").get(0);
+const reportContainer = $("#report-container").get(0);
 
 // Store the state for the checkbox focus
 let checkBoxState = null;
