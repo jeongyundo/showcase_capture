@@ -1,0 +1,9 @@
+#report-container-capture {
+  margin: 16px;
+  width: auto;
+  height: calc((9 / 16) * 99vw);
+}
+
+#report-container-capture > iframe {
+  border: 1px solid #c4c4c4;
+}
